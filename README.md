@@ -1,16 +1,16 @@
-### Hi there 👋
+# @metyu-melkonyan
+---
+## About Me
 
-<--
-**metyu-melkonyan/metyu-melkonyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Metyu Melkonyan.I am a fresh graduate of the University of Toronto Cell Systems and a Molecular Biology student specializing in Bioinformatics.
+---
+## 📚 Bioinformatics Works
 
-Here are some ideas to get you started:
+I have worked at the Provart's lab on web-based Protein docking applications. I have worked in the multimer compatibility implementation section. I have worked in Chen's lab as an Assistant Bioinformaticin studying  metagenomics, phytopathogens as well as next-generation sequencing data. Currently seeking additional opportunities in Bioinformatics.
+---
+###  Toolkit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python 🐍 (Pandas, Numpy, Flask, Sci-kit learn)
+* R (Bioconductor)
+* SQL
+
