@@ -2,7 +2,7 @@
 ---
 ## About Me
 
-I am Metyu Melkonyan.I am a fresh graduate of the University of Toronto Cell Systems and a Molecular Biology student specializing in Bioinformatics.
+I am Metyu Melkonyan.I am a fresh graduate of the University of Toronto Cell Systems and a Molecular Biology student specializing in Bioinformatics.I am currently continuing my studies in Biomedical Engineering.
 ---
 ## 📚 Bioinformatics Works
 
