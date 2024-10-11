@@ -6,10 +6,7 @@ I am a MEng student with a strong academic foundation in bioinformatics, earning
 
 
 ---
-## 📚 Bioinformatics Works
 
-I have worked at the Provart's lab on web-based Protein docking applications. I have worked in the multimer compatibility implementation section. I have worked in Chen's lab as an Assistant Bioinformaticin studying  metagenomics, phytopathogens, and next-generation sequencing data. I am currently seeking additional opportunities in Bioinformatics.
----
 ###  Toolkit
 
 * Python 🐍 (Pandas, Numpy, Flask, Sci-kit learn)
