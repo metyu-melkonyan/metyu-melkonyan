@@ -2,11 +2,13 @@
 ---
 ## About Me
 
-I am Metyu Melkonyan.I am a fresh graduate of the University of Toronto Cell Systems and a Molecular Biology student specializing in Bioinformatics.I am currently continuing my studies in Biomedical Engineering.
+I am a MEng student with a strong academic foundation in bioinformatics, earning my HBSc from the University of Toronto-St. George. My undergraduate thesis focused on integrating multimer compatibility into macromolecular docking applications via a web-based Bio-Analytics Resource (BAR). My research interests span structural biology, robotics, and the application of machine learning and deep learning to scientific data analysis. I am proficient in four languages: Turkish, Armenian, English, and French
+
+
 ---
 ## 📚 Bioinformatics Works
 
-I have worked at the Provart's lab on web-based Protein docking applications. I have worked in the multimer compatibility implementation section. I have worked in Chen's lab as an Assistant Bioinformaticin studying  metagenomics, phytopathogens as well as next-generation sequencing data. Currently seeking additional opportunities in Bioinformatics.
+I have worked at the Provart's lab on web-based Protein docking applications. I have worked in the multimer compatibility implementation section. I have worked in Chen's lab as an Assistant Bioinformaticin studying  metagenomics, phytopathogens, and next-generation sequencing data. I am currently seeking additional opportunities in Bioinformatics.
 ---
 ###  Toolkit
 
