@@ -13,7 +13,7 @@ I am an MEng student specializing in biomedical engineering with a strong academ
 * SQL
 * Python 🐍 (Pandas, Numpy, Flask, Sci-kit learn)
 * MATLAB (Signal and Image Processing)
-* SolidWorks (CAD Design)
+* Fusio360 (CAD Design)
 * Keras
 * TensorFlow
 * Figma
