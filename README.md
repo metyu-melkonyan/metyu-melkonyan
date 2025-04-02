@@ -11,7 +11,6 @@ I am an MEng student specializing in biomedical engineering with a strong academ
 * Python 🐍 (Pandas, Numpy, Flask, Sci-kit learn,PyTorch)
 * R (Bioconductor)
 * SQL
-* Python 🐍 (Pandas, Numpy, Flask, Sci-kit learn)
 * MATLAB (Signal and Image Processing)
 * Fusio360 (CAD Design)
 * Keras
