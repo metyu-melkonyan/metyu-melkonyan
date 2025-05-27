@@ -12,7 +12,7 @@ I am an MEng student specializing in biomedical engineering with a strong academ
 * R (Bioconductor)
 * SQL
 * MATLAB (Signal and Image Processing)
-* Fusio360 (CAD Design)
+* Adruino
 * Keras
 * TensorFlow
 * Figma
