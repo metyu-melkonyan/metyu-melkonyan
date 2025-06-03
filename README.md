@@ -8,11 +8,11 @@ I am an MEng student specializing in biomedical engineering with a strong academ
 
 ###  Toolkit
 
-* Python 🐍 (Pandas, Numpy, Flask, Sci-kit learn,PyTorch)
+* Python 🐍 (Flask, Pandas, Numpy)
 * R (Bioconductor)
 * SQL
-* MATLAB (Signal and Image Processing)
+* MATLAB 
 * Arduino
 * Keras
 * TensorFlow
-* Figma
+* StableBaselines3
