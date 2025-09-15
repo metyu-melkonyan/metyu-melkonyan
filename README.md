@@ -15,7 +15,7 @@ My expertise lies in structural biology, robotics, and the application of machin
 - **R** (Bioconductor)
 - **SQL**
 - **MATLAB**
-- **Arduino**
+- **C/C++**
 - **Keras**
 - **TensorFlow**
 - **StableBaselines3**
