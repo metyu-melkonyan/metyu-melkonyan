@@ -14,7 +14,7 @@ My expertise lies in structural biology, robotics, and the application of machin
 - **Python** 🐍 (Flask, Pandas, Numpy)
 - **R** (Bioconductor)
 - **SQL**
-- **MATLAB**
+- **Simulink**
 - **C/C++**
 - **Keras**
 - **TensorFlow**
