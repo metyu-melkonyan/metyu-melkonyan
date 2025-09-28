@@ -17,6 +17,7 @@ My expertise lies in Data Science, Robotics (Biomedical Engineering), and Struct
 - **MATLAB** (Simulink)
 - **C/C++**
 - ROS
+- OpenCV
 
 ---
 
