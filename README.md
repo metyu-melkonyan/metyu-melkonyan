@@ -11,7 +11,7 @@ My expertise lies in structural biology, robotics, and the application of machin
 
 ## 🛠️ Toolkit
 
-- **Python** 🐍 (Flask, Pandas, Numpy)
+- **Python** 🐍 (Tensorflow, Keras, Flask)
 - **R** (Bioconductor)
 - **SQL**
 - **Simulink**
