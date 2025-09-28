@@ -4,8 +4,8 @@
 
 ## About Me
 
-I am a Biomedical Engineer  with academic foundation in bioinformatics from the University of Toronto-St. George.
-My expertise lies in structural biology, robotics, and the application of machine learning and deep learning to biomedical challenges.
+I am a Biomedical Engineer  with an academic foundation in bioinformatics from the University of Toronto-St. George.
+My expertise lies in Data Science, Robotics (Biomedical Engineering), and Structural Biology (Systems Biology).
 
 ---
 
@@ -14,11 +14,9 @@ My expertise lies in structural biology, robotics, and the application of machin
 - **Python** 🐍 (Tensorflow, Keras, Flask)
 - **R** (Bioconductor)
 - **SQL**
-- **Simulink**
+- **MATLAB** (Simulink)
 - **C/C++**
-- **Keras**
-- **TensorFlow**
-- **StableBaselines3**
+- ROS
 
 ---
 
