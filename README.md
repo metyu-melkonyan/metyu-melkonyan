@@ -4,20 +4,21 @@
 
 ## About Me
 
-I am a Biomedical Engineer  with an academic foundation in bioinformatics from the University of Toronto-St. George.
-My expertise lies in Data Science, Robotics (Biomedical Engineering), and Structural Biology (Systems Biology).
+* 👋 Hi, I’m @metyu-melkonyan
+* I'm  interested in developing  user-centric software solutions, with a growing curiosity in artificial intelligence, structural biology and robotics, and how their intersection can transform everyday applications.
+* 📫 How to reach me: metyumelkonyan@gmail.com or www.linkedin.com/in/matthew-melkonyan/
+* I'm eager to collaborate on interdisciplinary tech projects, especially those that combine hardware, robotics, mathematics, and creative coding. I'm passionate about creating art with code and am particularly interested in opportunities involving artificial intelligence and machine learning.
+* My next goal is to contribute to an AI-based open-source project, a research project in generative AI, or and gain hands-on experience in machine learning.
+* Let's talk to see what we can contribute!
 
 ---
 
 ## 🛠️ Toolkit
 
-- **Python** 🐍 (Tensorflow, Keras, Flask)
-- **R** (Bioconductor)
-- **SQL**
-- **MATLAB** (Simulink)
-- **C/C++**
-- ROS
-- OpenCV
+* Languages: Python, C/C++, MATLAB, R, SQL
+* Web Development and Databases: Node.js, React, TailwindCSS, Framer Motion, HTML/CSS, SQLite, REST API, MongoDB
+* Libraries: OpenCV, NumPy, Matplotlib, WordPress, Tensorflow,Keras
+* Tools: Git/GitHub, ROS, Docker, Linux, VS Code, Figma, Adobe Illustrator, Microsoft Office, ModelSim, Quartus, LTspice
 
 ---
 
