@@ -4,7 +4,7 @@
 
 ## About Me
 
-* 👋 Hi, I’m @metyu-melkonyan
+* I hold a Bachelor's in Science in Systems Biology and a Master's in Biomedical Engineering.
 * I'm  interested in developing  user-centric software solutions, with a growing curiosity in artificial intelligence, structural biology and robotics, and how their intersection can transform everyday applications.
 * 📫 How to reach me: metyumelkonyan@gmail.com or www.linkedin.com/in/matthew-melkonyan/
 * I'm eager to collaborate on interdisciplinary tech projects, especially those that combine hardware, robotics, mathematics, and creative coding. I'm passionate about creating art with code and am particularly interested in opportunities involving artificial intelligence and machine learning.
