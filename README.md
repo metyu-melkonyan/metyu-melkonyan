@@ -16,7 +16,6 @@
 ## 🛠️ Toolkit
 
 * Languages: Python, C/C++, MATLAB, R, SQL
-* Web Development and Databases: Node.js, React, TailwindCSS, Framer Motion, HTML/CSS, SQLite, REST API, MongoDB
 * Libraries: OpenCV, NumPy, Matplotlib, WordPress, Tensorflow,Keras
 * Tools: Git/GitHub, ROS, Docker, Linux, VS Code, Figma, Adobe Illustrator, Microsoft Office, ModelSim, Quartus, LTspice
 
